@@ -1,0 +1,525 @@
+TUnused
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Info.plist /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist
+cProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/Unused/Unused/Unused/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused normal x86_64
+cGenerateDSYMFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused
+cCpResource Unused/en.lproj/Credits.rtfd build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd
+cCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings Unused/en.lproj/InfoPlist.strings
+cCompileXIB /Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib
+cCpResource Unused/Icon.icns build/Release/Unused.app/Contents/Resources/Icon.icns
+cCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings Unused/en.lproj/Localizable.strings
+cCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings Unused/fr.lproj/Localizable.strings
+cTouch /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052822B6200000000000000AA
+t1384262498
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C8246000000000000044C
+t1382842950
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526C824600000000000001DB
+t1382842950
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526C8247000000000000253C
+t1382842951
+s9532
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/Icon.icns
+c000000005302AC84000000000004495C
+t1392684164
+s280924
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist
+c000000005302AC8400000000000004B3
+t1392684164
+s1203
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch
+c000000005302AC84000000000000008F
+t1392684164
+s143
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.h
+c000000005302AC840000000000000861
+t1392684164
+s2145
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m
+c000000005302AC84000000000000491A
+t1392684164
+s18714
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/Credits.rtfd
+c000000005302AC840000000000008000
+t1392684164
+s32768
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/InfoPlist.strings
+c000000005302AC84000000000000002D
+t1392684164
+s45
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/Localizable.strings
+c000000005302AC8400000000000001B1
+t1392684164
+s433
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib
+c000000005302AC8400000000000114D9
+t1392684164
+s70873
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/fr.lproj/Localizable.strings
+c000000005302AC8400000000000001B0
+t1392684164
+s432
+
+N/Volumes/SHARED/trough/Unused/Unused/Unused/main.m
+c000000005302AC8400000000000000FD
+t1392684164
+s253
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app
+t1392684326
+s32768
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM
+t2
+s0
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Info.plist
+t1392684326
+s1560
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused
+t1392684328
+s70384
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/PkgInfo
+t1392684326
+s8
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/Icon.icns
+t1392684328
+s280924
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd
+t1392684328
+s32768
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1392684328
+s92
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings
+t1392684328
+s868
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/MainMenu.nib
+t1392684328
+s40919
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings
+t1392684328
+s866
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o
+t2
+s0
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/Unused.LinkFileList
+c000000005302AD2600000000000000E1
+t1392684326
+s225
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o
+t1392684328
+s138600
+
+N/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o
+t1392684328
+s2776
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch
+t1392684327
+s13678124
+
+N/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch
+t1392684254
+s14236632
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies20ed17a7e4b2b841^255a22a7e4b2b841^---0#1#1#--18"Check dependencies36"54181761-A1A5-46AE-BF84-0524EF869191-
+
+CCompileC build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377054.521203
+e414377054.574956
+r0
+xCompileC
+xbuild/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o
+x/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m
+d/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.h
+o[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:15:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'resultsTableView' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize resultsTableView=_resultsTableView;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:16:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'processIndicator' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize processIndicator=_processIndicator;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:17:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'statusLabel' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize statusLabel=_statusLabel;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:18:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'window' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize window=_window;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:19:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'mCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize mCheckbox=_mCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:20:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'xibCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize xibCheckbox=_xibCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:21:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'sbCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize sbCheckbox=_sbCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:22:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'cppCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize cppCheckbox=_cppCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:23:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'headerCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize headerCheckbox=_headerCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:24:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'mmCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize mmCheckbox=_mmCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:25:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'htmlCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize htmlCheckbox =_htmlCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:26:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'plistCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize plistCheckbox =_plistCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:27:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'cssCheckbox' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize cssCheckbox =_cssCheckbox;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:28:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'browseButton' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize browseButton=_browseButton;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:29:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'pathTextField' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize pathTextField=_pathTextField;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:30:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'searchButton' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize searchButton=_searchButton;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:31:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'exportButton' must either be named the same as a
+o      compatible instance variable or must explicitly name an instance variable[0m
+o@synthesize exportButton=_exportButton;
+o[0;1;32m            ^
+o[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:32:13: [0m[0;1;31merror: [0m[1m
+o      synthesized property 'searchDirectoryPath' must either be named the same
+o      as a compatible instance variable or must explicitly name an instance
+o      variable[0m
+o@synthesize searchDirectoryPath=_searchDirectoryPath;
+o[0;1;32m            ^
+o[0m18 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m199"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o [1mUnused/UnusedAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf81855ee4b2b841^982f935ee4b2b841^-6012"[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:15:13: [0m[0;1;31merror: [0m[1m      synthesized property 'resultsTableView' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize resultsTableView=_resultsTableView;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:16:13: [0m[0;1;31merror: [0m[1m      synthesized property 'processIndicator' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize processIndicator=_processIndicator;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:17:13: [0m[0;1;31merror: [0m[1m      synthesized property 'statusLabel' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize statusLabel=_statusLabel;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:18:13: [0m[0;1;31merror: [0m[1m      synthesized property 'window' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize window=_window;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:19:13: [0m[0;1;31merror: [0m[1m      synthesized property 'mCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize mCheckbox=_mCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:20:13: [0m[0;1;31merror: [0m[1m      synthesized property 'xibCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize xibCheckbox=_xibCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:21:13: [0m[0;1;31merror: [0m[1m      synthesized property 'sbCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize sbCheckbox=_sbCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:22:13: [0m[0;1;31merror: [0m[1m      synthesized property 'cppCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize cppCheckbox=_cppCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:23:13: [0m[0;1;31merror: [0m[1m      synthesized property 'headerCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize headerCheckbox=_headerCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:24:13: [0m[0;1;31merror: [0m[1m      synthesized property 'mmCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize mmCheckbox=_mmCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:25:13: [0m[0;1;31merror: [0m[1m      synthesized property 'htmlCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize htmlCheckbox =_htmlCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:26:13: [0m[0;1;31merror: [0m[1m      synthesized property 'plistCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize plistCheckbox =_plistCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:27:13: [0m[0;1;31merror: [0m[1m      synthesized property 'cssCheckbox' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize cssCheckbox =_cssCheckbox;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:28:13: [0m[0;1;31merror: [0m[1m      synthesized property 'browseButton' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize browseButton=_browseButton;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:29:13: [0m[0;1;31merror: [0m[1m      synthesized property 'pathTextField' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize pathTextField=_pathTextField;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:30:13: [0m[0;1;31merror: [0m[1m      synthesized property 'searchButton' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize searchButton=_searchButton;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:31:13: [0m[0;1;31merror: [0m[1m      synthesized property 'exportButton' must either be named the same as a      compatible instance variable or must explicitly name an instance variable[0m@synthesize exportButton=_exportButton;[0;1;32m            ^[0m[1m/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m:32:13: [0m[0;1;31merror: [0m[1m      synthesized property 'searchDirectoryPath' must either be named the same      as a compatible instance variable or must explicitly name an instance      variable[0m@synthesize searchDirectoryPath=_searchDirectoryPath;[0;1;32m            ^[0m18 errors generated.18(36%IDEClangDiagnosticActivityLogMessage2@148"Synthesized property 'resultsTableView' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^14#12#14#12#262#0#14"Semantic Issue--2@148"Synthesized property 'processIndicator' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^15#12#15#12#310#0#14"Semantic Issue--2@143"Synthesized property 'statusLabel' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^16#12#16#12#358#0#14"Semantic Issue--2@138"Synthesized property 'window' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^17#12#17#12#396#0#14"Semantic Issue--2@141"Synthesized property 'mCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^18#12#18#12#424#0#14"Semantic Issue--2@143"Synthesized property 'xibCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^19#12#19#12#458#0#14"Semantic Issue--2@142"Synthesized property 'sbCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^20#12#20#12#496#0#14"Semantic Issue--2@143"Synthesized property 'cppCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^21#12#21#12#532#0#14"Semantic Issue--2@146"Synthesized property 'headerCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^22#12#22#12#570#0#14"Semantic Issue--2@142"Synthesized property 'mmCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^23#12#23#12#614#0#14"Semantic Issue--2@144"Synthesized property 'htmlCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^24#12#24#12#650#0#14"Semantic Issue--2@145"Synthesized property 'plistCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^25#12#25#12#691#0#14"Semantic Issue--2@143"Synthesized property 'cssCheckbox' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^26#12#26#12#734#0#14"Semantic Issue--2@144"Synthesized property 'browseButton' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^27#12#27#12#773#0#14"Semantic Issue--2@145"Synthesized property 'pathTextField' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^28#12#28#12#813#0#14"Semantic Issue--2@144"Synthesized property 'searchButton' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^29#12#29#12#855#0#14"Semantic Issue--2@144"Synthesized property 'exportButton' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^30#12#30#12#895#0#14"Semantic Issue--2@151"Synthesized property 'searchDirectoryPath' must either be named the same as a compatible instance variable or must explicitly name an instance variable-414377054#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^31#12#31#12#935#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^2938"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o [1mUnused/UnusedAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/i386 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.d --serialize-diagnostics /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.dia -c /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m -o /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/UnusedAppDelegate.o36"DCEF7BA2-9680-4A9F-8306-DFAC7F9F7BD2-
+bF336A79F-97EF-43E7-89CB-C478607BC856
+
+CCompileC build/Unused.build/Release/Unused.build/Objects-normal/i386/main.o /Volumes/SHARED/trough/Unused/Unused/Unused/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377054.521208
+e414377054.564799
+r1
+xCompileC
+xbuild/Unused.build/Release/Unused.build/Objects-normal/i386/main.o
+x/Volumes/SHARED/trough/Unused/Unused/Unused/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Volumes/SHARED/trough/Unused/Unused/Unused/main.m173"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/i386/main.o [1mUnused/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileraa82855ee4b2b841^5397905ee4b2b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/main.m0000000000000000^2860"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/i386/main.o [1mUnused/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/i386 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/main.dia -c /Volumes/SHARED/trough/Unused/Unused/Unused/main.m -o /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/main.o36"9AB1073E-514C-4D9D-A8BA-F76543D3BF31-
+bF336A79F-97EF-43E7-89CB-C478607BC856
+
+CCompileC build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377128.079469
+e414377128.235044
+r1
+xCompileC
+xbuild/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o
+x/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m
+d/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m203"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o [1mUnused/UnusedAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerad6b14a8e4b2b841^d82b3ca8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@79"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m0000000000000000^2952"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o [1mUnused/UnusedAppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.d --serialize-diagnostics /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.dia -c /Volumes/SHARED/trough/Unused/Unused/Unused/UnusedAppDelegate.m -o /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o36"804802F6-C83D-42B8-83E2-19850383F0C2-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCompileC build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o /Volumes/SHARED/trough/Unused/Unused/Unused/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377128.079472
+e414377128.124760
+r1
+xCompileC
+xbuild/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o
+x/Volumes/SHARED/trough/Unused/Unused/Unused/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Volumes/SHARED/trough/Unused/Unused/Unused/main.m177"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o [1mUnused/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerad6b14a8e4b2b841^d0ef1fa8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/main.m0000000000000000^2874"[1mCompileC[0m build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o [1mUnused/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release -include /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch -MMD -MT dependencies -MF /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.dia -c /Volumes/SHARED/trough/Unused/Unused/Unused/main.m -o /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o36"0F5E43D7-A111-4E9F-821E-564DC73AC801-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCompileXIB /Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib
+s414377128.436506
+e414377128.556171
+r1
+xCompileXIB
+x/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib55"[1mCompileXIB[0m [1mUnused/en.lproj/MainMenu.xib[0mf7cb6fa8e4b2b841^7c618ea8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib0000000000000000^530"[1mCompileXIB[0m [1mUnused/en.lproj/MainMenu.xib[0m    cd /Volumes/SHARED/trough/Unused/Unused    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.6 --output-format human-readable-text --compile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/MainMenu.nib /Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/MainMenu.xib36"4DED31B3-9024-4063-AA0B-879F33591710-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings Unused/en.lproj/InfoPlist.strings
+s414377128.436500
+e414377128.440329
+r1
+xCopyStringsFile
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings
+xUnused/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy Unused/en.lproj/InfoPlist.strings128"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings Unused/en.lproj/InfoPlist.strings21ce6fa8e4b2b841^bbb970a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/InfoPlist.strings0000000000000000^390"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/en.lproj/InfoPlist.strings Unused/en.lproj/InfoPlist.strings    cd /Volumes/SHARED/trough/Unused/Unused    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj -- Unused/en.lproj/InfoPlist.strings36"B9E64CD9-BFC5-4676-8F8F-6ABFAE59FB9A-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings Unused/en.lproj/Localizable.strings
+s414377128.441570
+e414377128.458825
+r1
+xCopyStringsFile
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings
+xUnused/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Unused/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings Unused/en.lproj/Localizable.strings651a71a8e4b2b841^047675a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/Localizable.strings0000000000000000^396"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/en.lproj/Localizable.strings Unused/en.lproj/Localizable.strings    cd /Volumes/SHARED/trough/Unused/Unused    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj -- Unused/en.lproj/Localizable.strings36"6A5A448D-FD61-4D8E-9CD3-675615024BC3-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCopyStringsFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings Unused/fr.lproj/Localizable.strings
+s414377128.444200
+e414377128.460983
+r1
+xCopyStringsFile
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings
+xUnused/fr.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Unused/fr.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings Unused/fr.lproj/Localizable.strings76c071a8e4b2b841^710376a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/fr.lproj/Localizable.strings0000000000000000^396"[1mCopyStringsFile[0m build/Release/Unused.app/Contents/Resources/fr.lproj/Localizable.strings Unused/fr.lproj/Localizable.strings    cd /Volumes/SHARED/trough/Unused/Unused    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/fr.lproj -- Unused/fr.lproj/Localizable.strings36"53487539-23E5-44C1-96D0-0D114AA78BEA-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCpResource Unused/Icon.icns build/Release/Unused.app/Contents/Resources/Icon.icns
+s414377128.436702
+e414377128.465696
+r1
+xCpResource
+xUnused/Icon.icns
+xbuild/Release/Unused.app/Contents/Resources/Icon.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release/Unused.app/Contents/Resources/Icon.icns89"[1mCpResource[0m Unused/Icon.icns build/Release/Unused.app/Contents/Resources/Icon.icnsaad56fa8e4b2b841^613877a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/Icon.icns00389865dcffdf42^507"[1mCpResource[0m Unused/Icon.icns build/Release/Unused.app/Contents/Resources/Icon.icns    cd /Volumes/SHARED/trough/Unused/Unused    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/trough/Unused/Unused/Unused/Icon.icns /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources36"324B4F1E-1BD8-4A71-B4D8-16E4762711C5-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCpResource Unused/en.lproj/Credits.rtfd build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd
+s414377128.436497
+e414377128.442933
+r1
+xCpResource
+xUnused/en.lproj/Credits.rtfd
+xbuild/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd113"[1mCpResource[0m Unused/en.lproj/Credits.rtfd build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfdeecd6fa8e4b2b841^846471a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd00389865dcffdf42^552"[1mCpResource[0m Unused/en.lproj/Credits.rtfd build/Release/Unused.app/Contents/Resources/en.lproj/Credits.rtfd    cd /Volumes/SHARED/trough/Unused/Unused    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/trough/Unused/Unused/Unused/en.lproj/Credits.rtfd /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Resources/en.lproj36"60A4896D-AFE1-45D5-A06A-03A00E84A925-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CCreateUniversalBinary /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused normal x86_64\ i386
+r0
+
+CGenerateDSYMFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused
+s414377128.407594
+e414377128.428359
+r1
+xGenerateDSYMFile
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Generate /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM109"[1mGenerateDSYMFile[0m [1mbuild/Release/Unused.app.dSYM[0m build/Release/Unused.app/Contents/MacOS/Unusedbf6368a8e4b2b841^43a96da8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM00389865dcffdf42^408"[1mGenerateDSYMFile[0m [1mbuild/Release/Unused.app.dSYM[0m build/Release/Unused.app/Contents/MacOS/Unused    cd /Volumes/SHARED/trough/Unused/Unused    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused -o /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app.dSYM36"A88CDF4E-CB06-4E5B-8849-04A4F965ED5E-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CLd /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused normal x86_64
+s414377128.242823
+e414377128.399265
+r1
+xLd
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused
+xnormal
+xx86_64
+d/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/Unused.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/main.o
+d/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/UnusedAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_macosx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Link /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused71"[1mLd[0m build/Release/Unused.app/Contents/MacOS/Unused normal x86_6469373ea8e4b2b841^7e3666a8e4b2b841^---0#0#1#--922"[1mLd[0m build/Release/Unused.app/Contents/MacOS/Unused normal x86_64    cd /Volumes/SHARED/trough/Unused/Unused    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Volumes/SHARED/trough/Unused/Unused/build/Release -F/Volumes/SHARED/trough/Unused/Unused/build/Release -filelist /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/Unused.LinkFileList -mmacosx-version-min=10.6 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/Unused_dependency_info.dat -o /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/MacOS/Unused36"9819F02B-3F4D-4E29-B258-024BF0491EC2-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CLd /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/i386/Unused normal i386
+r0
+
+CLd /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Objects-normal/x86_64/Unused normal x86_64
+r0
+
+CProcessInfoPlistFile /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Info.plist /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist
+s414377127.136166
+e414377127.139800
+r1
+xProcessInfoPlistFile
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Info.plist
+x/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Process /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist106"[1mProcessInfoPlistFile[0m build/Release/Unused.app/Contents/Info.plist [1mUnused/Unused-Info.plist[0m6bf022a7e4b2b841^10ca23a7e4b2b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist0000000000000000^456"[1mProcessInfoPlistFile[0m build/Release/Unused.app/Contents/Info.plist [1mUnused/Unused-Info.plist[0m    cd /Volumes/SHARED/trough/Unused/Unused    builtin-infoPlistUtility /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Info.plist -genpkginfo /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app/Contents/Info.plist36"FFF8A366-589A-4E31-A0FF-C58846BB2B47-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377127.149104
+e414377128.071386
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch
+xUnused/Unused-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Unused/Unused-Prefix.pch296"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler294226a7e4b2b841^d44512a8e4b2b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch0000000000000000^3050"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/x86_64 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.d -c /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-fkmfhpgsdgjvwjhktfwxynnowgns/Unused-Prefix.pch.pch36"307A4ACC-D61F-4FCA-BCD9-69343A8E40A1-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
+CProcessPCH /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414377053.711069
+e414377054.512917
+r1
+xProcessPCH
+x/var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch
+xUnused/Unused-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile Unused/Unused-Prefix.pch294"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd18b65de4b2b841^014e835ee4b2b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch0000000000000000^3044"[1mProcessPCH[0m /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch Unused/Unused-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/trough/Unused/Unused    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-generated-files.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-own-target-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-all-target-headers.hmap -iquote /Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/Unused-project-headers.hmap -I/Volumes/SHARED/trough/Unused/Unused/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources/i386 -I/Volumes/SHARED/trough/Unused/Unused/build/Unused.build/Release/Unused.build/DerivedSources -F/Volumes/SHARED/trough/Unused/Unused/build/Release --serialize-diagnostics /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.d -c /Volumes/SHARED/trough/Unused/Unused/Unused/Unused-Prefix.pch -o /var/folders/6z/dr13f9zs66g1mj3rc4d__n4m0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Unused-Prefix-frkjfkmkbipyfsgpsujpnljhvelo/Unused-Prefix.pch.pch36"C058FCFD-0550-4344-975A-3425A306E2A5-
+bF336A79F-97EF-43E7-89CB-C478607BC856
+
+CTouch /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app
+s414377128.564011
+e414377128.568756
+r1
+xTouch
+x/Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Touch /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app38"[1mTouch[0m build/Release/Unused.appca6c90a8e4b2b841^749a91a8e4b2b841^---0#0#1#--167"[1mTouch[0m build/Release/Unused.app    cd /Volumes/SHARED/trough/Unused/Unused    /usr/bin/touch -c /Volumes/SHARED/trough/Unused/Unused/build/Release/Unused.app36"3051D0AF-3420-4620-9E5A-A2C47B27F24D-
+b5F053F54-0168-498E-A43F-33D930ED1317
+
